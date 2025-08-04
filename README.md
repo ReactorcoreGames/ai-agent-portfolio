@@ -1,6 +1,9 @@
 # Ai-Agent-Portfolio
 Full list of AI Agents I built in MindStudio for public use.
 
+ ![My Agents Reactorcore](https://github.com/ReactorcoreGames/ai-agent-portfolio/blob/main/My%20Agents%20Reactorcore%2024.4.2025.png)
+
+
 ## About
 Hey I’m Reactorcore, a Prompt Engineer, among other things, and I’ve built a bunch of free public AI Agents on the MindStudio.ai platform you can use and remix. This thread is collection/hub of all my works as a portfolio. Its only one aspect what I can build, so check at the bottom my other links too.
 
